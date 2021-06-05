@@ -13,3 +13,7 @@ En este notebook se impliementa un ejemlplo de obtención de mediciones metorló
 ## 2. Hibridación
 
 En este  notebook se implementa un ejemplo de como hibridar los datos de un contador con los datos meteorológicos. Para ello se realiza la asignacion a cada usuario de la estación meteorológica mas cercana, asi como el calculo del factor de correción.
+
+## 3. Clustering
+
+En este notebook se implementa un ejemplo de clustering sobre datos de consumos electricos.
